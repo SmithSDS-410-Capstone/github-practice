@@ -1,6 +1,6 @@
 ---
-title: "SDS 192 Assignment"
-subtitle: "SDS 192"
+title: "SDS 410 Assignment"
+subtitle: "SDS 410"
 author: 
 - name: Lindsay Poirier
   affiliation: Smith College
