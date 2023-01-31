@@ -4,7 +4,7 @@ subtitle: "SDS 410"
 author: 
 - name: Lindsay Poirier
   affiliation: Smith College
-- name: Author Two
+- name: Lindsay Poirier
   affiliation: Smith College
 - name: Author Three
   affiliation: Smith College
