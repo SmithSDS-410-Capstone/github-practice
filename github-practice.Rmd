@@ -1,6 +1,6 @@
 ---
 title: "SDS 238 Assignment"
-subtitle: "SDS 410"
+subtitle: "SDS 238"
 author: 
 - name: Lindsay Poirier
   affiliation: Smith College
